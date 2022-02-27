@@ -1,3 +1,3 @@
 # Demo
 
-Algo de informacion!
+Algo de información!
