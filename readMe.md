@@ -1,3 +1,3 @@
 # Demo
 
-Alfo de informacion
+Algo de informacion
